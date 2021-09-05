@@ -1,5 +1,5 @@
 const express = require('express');
-const PORT = 4000;
+const PORT = 80;
 const app =express();
 
 app.get('/hello',(req,res,next)=>{
