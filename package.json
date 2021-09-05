@@ -18,11 +18,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-<<<<<<< HEAD
     "express": "^4.17.1"
-=======
-    "express": "^4.17.1",
-    
->>>>>>> 3a2fd4161be2db74e2f3d6fc9f9b0058682d90a9
   }
 }
